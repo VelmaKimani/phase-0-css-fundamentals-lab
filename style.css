@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+nav {
+  align-items: center;
+}
+
+section {
+  align-items: center;
+}
